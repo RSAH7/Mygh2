@@ -17,7 +17,7 @@ namespace Mygh2
     /// new tabs/panels will automatically be created.
     /// </summary>
     public MyghComponent2()
-      : base("MyghComponent2", "Nickname",
+      : base("Rushabh", "Nickname",
         "Description",
         "Category", "Subcategory")
     {
